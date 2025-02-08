@@ -1,2 +1,3 @@
-### Organization by Ivanov
-- My first irganization
+### Organization by Ivanov  
+- My first organization  
+- Моя первая организация  
