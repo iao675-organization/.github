@@ -1,3 +1,1 @@
-### Organization by Ivanov  
-- My first organization  
-- Моя первая организация  
+### Organization by Ivanov
